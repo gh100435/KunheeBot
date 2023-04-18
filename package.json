@@ -1,0 +1,17 @@
+{
+    "name": "binance-futures-trading-bot",
+    "version": "1.0.0",
+    "description": "A trading bot for Binance Futures using WebSocket and Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "dependencies": {
+      "binance-api-node": "^2.20.4",
+      "blessed": "^0.1.81",
+      "talib": "^1.0.2",
+      "ws": "^8.4.0"
+    }
+  }
+  
